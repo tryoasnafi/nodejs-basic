@@ -1,0 +1,3 @@
+| Stream di No | de.js
+ 
+Tekn | ik stream me | rupakan sala | h satu konse | p fundamenta | l yang mendu | kung aplikas | i Node.js be | kerja. Tekni | k ini dapat  | menangani ka | sus baca tul | is berkas, k | omunikasi ja | ringan, atau |  beban kerja |  apapun agar |  dapat berja | lan dengan l | ebih efisien | . | null 
